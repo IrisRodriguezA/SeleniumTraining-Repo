@@ -1,1 +1,1 @@
-"rosa, celeste, morado, amarillo pastel, rosa pastel" 
+azul,morado,negro,blanco
